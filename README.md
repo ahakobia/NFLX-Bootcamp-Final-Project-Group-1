@@ -16,3 +16,9 @@ GUIDING QUESTIONS:
    4. Where do the most severe accidents occur?
 
 
+Overall we found: 
+
+   1. The Rate of casualties in accidents does differ during the day
+   2. Faster speeds in comparison to slower ones have higher rate of casualties
+   3. Road conditions do impact the number of casualties of accidents
+   4. Location does impact the severity of accidents, and they are more severe in rural than urban locations
