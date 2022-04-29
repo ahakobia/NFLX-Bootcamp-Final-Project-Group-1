@@ -25,7 +25,7 @@ Null: Rate of casualties in accidents does not differ between each block of time
 Alternative: Rate of casualties in accidents is different based on the time of day
 
 
-
+CONCLUSION: We reject the null hypothesis. There is a difference in the rate of casualties based on the time of day.
 
 ANALYSIS #2: Speed
 
@@ -35,7 +35,10 @@ Null: Speed limits do not have an impact on the average number of casualties
 
 Alternative: Speed limits do have an impact on the average number of casualties and higher speed limits have a higher casualty rate
 
+We saw that there were a lot of casualties for the 30 speed limit. This can be because there are more distrations and more things to look out for, like pedestrians and bikers, on regular streest versus on a highway. Also, people are more often going to be driving on regular streets than on a highway. Our test showed that as the speed limit increases, the number of casualties increase as well. 
 
+
+CONCLUSION: We reject the null hypothesis. Higher speed limits affects the rate of casualties.
 
 
 ANALYSIS #3: Road Condition
@@ -63,6 +66,9 @@ Null: Location does not impact severity of accidents and does not change whether
 Alternative: Location does impact the severity of accidents, and they are more severe in rural than urban locations
 
 
+CONCLUSION: We reject the null hypothesis. Location does affect the severity of accidents, specifically in rural areas. 
+
+
 
 SUMMARY:
 
@@ -76,6 +82,6 @@ Overall we found:
 
 Suggestions for Tesla:
 
-    1. When implementing the Full self driving beta testing, Tesla can check for driver attention by asking them to pull on the wheel more often than usual whenever they are driving in streets with lower speed and advise against high speed testing
-    2. They can also warn drivers to test when road conditions are dry.
-    3. They can rollout beta besting to primarily urban areas since there are less severe accidents that occur in urban areas. 
+   1. When implementing the Full self driving beta testing, Tesla can check for driver attention by asking them to pull on the wheel more often than usual whenever they are driving in streets with lower speed and advise against high speed testing
+   2. They can also warn drivers to test when road conditions are dry.
+   3. They can rollout beta besting to primarily urban areas since there are less severe accidents that occur in urban areas. 
