@@ -28,6 +28,9 @@ Null: Rate of casualties in accidents does not differ between each block of time
 Alternative: Rate of casualties in accidents is different based on the time of day
 
 
+We separated each hour of the day into time blocks: Early Day, Morning Rush, Day, Evening Rush, Night and Late Night. Most casualties happened during Evening Rush Hour and Day, with the lowest being Night and Late Night. However, when we looked at average casualties, Night and Late Night had the highest average. Where we do not see a significant difference is in the late night and night time accidents, early day and evening rush hours, and daytime and evening rush hours, possibly due to people getting to work during different hours.
+
+
 CONCLUSION: We reject the null hypothesis. There is a difference in the rate of casualties based on the time of day.
 
 ------------------------------------------------------------------------------------------
@@ -39,6 +42,7 @@ Hypothesis: If speed limits impact the amount of casualties in an accident, then
 Null: Speed limits do not have an impact on the average number of casualties
 
 Alternative: Speed limits do have an impact on the average number of casualties and higher speed limits have a higher casualty rate
+
 
 We saw that there were a lot of casualties for the 30 speed limit. This can be because there are more distrations and more things to look out for, like pedestrians and bikers, on regular streest versus on a highway. Also, people are more often going to be driving on regular streets than on a highway. Our test showed that as the speed limit increases, the number of casualties increase as well. 
 
@@ -53,7 +57,9 @@ ANALYSIS #3: Road Condition
 
 
 Hypothesis: If road conditions impacts the number of casualties in an accident, then the number of casualties will increase when road conditions are not dry 
+
 Null: Road conditions do not impact the number of casualties of accidents
+
 Alternative: Road conditions do impact the number of casualties of accidents
 
 
@@ -73,6 +79,9 @@ Hypothesis: If location is a factor in the severity of accidents, then severity 
 Null: Location does not impact severity of accidents and does not change whether it is in an urban or rural location
 
 Alternative: Location does impact the severity of accidents, and they are more severe in rural than urban locations
+
+
+The data showed that there were roughly 2 times the amount of urban accidents as there were rural ones. This is supported by the map because it showed that most accidents happened around big cities, like London and Birmingham. Most of these accidents were slight or serious, in terms of severity.
 
 
 CONCLUSION: We reject the null hypothesis. Location does affect the severity of accidents, specifically in rural areas. 
