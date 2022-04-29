@@ -17,15 +17,20 @@ GUIDING QUESTIONS:
    3. How are road conditions associated with the number of casualties? 
    4. Where do the most severe accidents occur?
 
+------------------------------------------------------------------------------------------
 
 ANALYSIS #1: Time
 
 Hypothesis: If time of day impacts death during accidents, then the rate of casualties will vary throughout day
+
 Null: Rate of casualties in accidents does not differ between each block of time
+
 Alternative: Rate of casualties in accidents is different based on the time of day
 
 
 CONCLUSION: We reject the null hypothesis. There is a difference in the rate of casualties based on the time of day.
+
+------------------------------------------------------------------------------------------
 
 ANALYSIS #2: Speed
 
@@ -39,6 +44,9 @@ We saw that there were a lot of casualties for the 30 speed limit. This can be b
 
 
 CONCLUSION: We reject the null hypothesis. Higher speed limits affects the rate of casualties.
+
+
+------------------------------------------------------------------------------------------
 
 
 ANALYSIS #3: Road Condition
@@ -55,6 +63,7 @@ For all road conditions, most accidents only involved only 1 casualty. Dry had t
 CONCLUSION: We reject the null hypothesis. Road conditions do impact the number of casualties, specifically road conditions that are not Dry.
 
 
+------------------------------------------------------------------------------------------
 
 
 ANALYSIS #4: Location
@@ -68,6 +77,7 @@ Alternative: Location does impact the severity of accidents, and they are more s
 
 CONCLUSION: We reject the null hypothesis. Location does affect the severity of accidents, specifically in rural areas. 
 
+------------------------------------------------------------------------------------------
 
 
 SUMMARY:
@@ -80,7 +90,7 @@ Overall we found:
    4. Location does impact the severity of accidents, and they are more severe in rural than urban locations
 
 
-Suggestions for Tesla:
+RECOMMENDATION:
 
    1. When implementing the Full self driving beta testing, Tesla can check for driver attention by asking them to pull on the wheel more often than usual whenever they are driving in streets with lower speed and advise against high speed testing
    2. They can also warn drivers to test when road conditions are dry.
