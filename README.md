@@ -70,6 +70,7 @@ Overall we found:
 
 
 Suggestions for Tesla:
+
     1. When implementing the Full self driving beta testing, Tesla can check for driver attention by asking them to pull on the wheel more often than usual whenever they are driving in streets with lower speed and advise against high speed testing
     2. They can also warn drivers to test when road conditions are dry.
     3. They can rollout beta besting to primarily urban areas since there are less severe accidents that occur in urban areas. 
